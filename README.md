@@ -18,9 +18,11 @@ This quick guide desigend in several parts which tries to be informative and pra
 - Watch these video which are quick and handy:
 
 https://www.youtube.com/watch?v=BA_c3bGQXlQ
+
 https://www.youtube.com/watch?v=SWVjQsvQocA
 
 - to read more 
 https://pages.github.com/
+
 https://github.com/blog/2295-new-theme-chooser-for-github-pages
 
