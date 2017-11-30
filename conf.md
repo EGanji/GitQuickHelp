@@ -1,6 +1,6 @@
 [Link to template page](template.md).
 
-[Link to main page](readme.md).
+[Link to main page](README.md).
 
 # The Hacker theme
 
