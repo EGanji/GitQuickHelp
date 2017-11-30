@@ -20,7 +20,7 @@ This quick guide desigend in several parts which tries to be informative and pra
   (bitbucket: the free account is limited, but Academic one is unlimited)
   
 - Open an account with GitKraken (academic and non-comercial usage is Free)
-- Log into your GitKraken 
+- Log into your GitKraken, go to: File-> Preferences->Authentication-> then you can connect your GitKraken with any Git repository you have by click on connect. To have a life easy, log into your Git repositories before.
 
 </b>
 <h1>Part II:</h1>
