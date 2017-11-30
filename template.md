@@ -1,10 +1,11 @@
-[Link to main page](README.md).
-
-[Link to conf page](conf.md).
 
 ---
 layout: defaulthttps://github.com/EGanji/QuickGit/blob/master/template.md
 ---
+
+[Link to main page](README.md).
+
+[Link to conf page](conf.md).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
