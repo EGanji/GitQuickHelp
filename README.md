@@ -10,8 +10,17 @@ This quick guide desigend in several parts which tries to be informative and pra
 
 <h1>Part I:</h1>
 
-- Install git from the link https://git-scm.com/
-- 
+- Install git from the link https://git-scm.com/ (to read more <href> https://git-scm.com/about</href>)
+- Open an account with a git repository e.g. GitHub, bitBucket, GitLab
+  <h3>
+  (GitHub: is free for public usage; if you like to have a private, you should pay.)
+  
+  (GitLab: is free; but, if you like more option, you have to pay)
+  
+  (bitbucket: the free account is limited, but Academic one is unlimited)
+  
+- Open an account with GitKraken (academic and non-comercial usage is Free)
+- Log into your GitKraken 
 
 
 <h1>Part II:</h1>
