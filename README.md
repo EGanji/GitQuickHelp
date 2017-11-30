@@ -1,5 +1,5 @@
-# GitQuickHelp
-This guide helps you to setup Git on your machine from the scratch.
+title: [GitQuickHelp]
+description: [This guide helps you to setup Git on your machine from the scratch.]
 
 
 This quick guide desigend in several parts which tries to be informative and practical.
