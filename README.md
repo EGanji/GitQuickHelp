@@ -1,5 +1,7 @@
 
-[Link to template page](template.md).</b>[Link to conf page](conf.md).
+[Link to template page](template.md).
+
+[Link to conf page](conf.md).
 
 
 This quick guide desigend in several parts which tries to be informative and practical.
