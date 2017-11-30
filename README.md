@@ -1,5 +1,5 @@
 
-[Link to another page](template.md).
+[Link to template page](template.md).
 
 
 This quick guide desigend in several parts which tries to be informative and practical.
