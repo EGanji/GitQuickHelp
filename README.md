@@ -27,3 +27,5 @@ https://pages.github.com/
 
 https://github.com/blog/2295-new-theme-chooser-for-github-pages
 
+https://pages.github.com/
+
