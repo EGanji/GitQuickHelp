@@ -30,7 +30,7 @@ or quciker, have a look at [git cheatsheet](https://services.github.com/on-deman
 - Log into your [GitKraken](https://account.gitkraken.com/login); then connect GitKraken with any Git repository (e.g. [GitHub](https://support.gitkraken.com/integrations/github), [GitLab](https://support.gitkraken.com/integrations/gitlab), or [Bitbucket](https://support.gitkraken.com/integrations/bitbucket)):
   - go to: _**File->Preferences->Authentication**_   
   - click on connect.
-   - _Tip_: to have an easier life, log into your Git repositories before clicking on connect.
+    - _tip_: to have an easier life, log into your Git repositories before clicking on connect.
   - Then you can exit from prefrences.
 
 # Part II:
