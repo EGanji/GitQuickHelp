@@ -11,9 +11,19 @@ This quick guide desigend in several parts which tries to be informative and pra
 1. First part helps you to set up Git and relevant things.
 2. Second, it helps to make a website on GitHub.
 
-List (A,B,C)
 
-Numbered (A,B,C)
+# Head1
+## Head2
+### Head3
+List 
+A
+B
+C
+
+Numbered
+A
+B
+C
 
 <h1>Part I:</h1>
 
