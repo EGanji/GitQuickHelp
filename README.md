@@ -3,6 +3,8 @@
 
 [Link to conf page](conf.md).
 
+![Machine Learning MindMap](https://media.licdn.com/mpr/mpr/AAIAAQDGAAAAAQAAAAAAAAtEAAAAJDgxNDhhMmJiLTQ3Y2ItNDI1ZS05MTUwLTdhNTJmNTkxYWE1Mw.png)
+
 
 This quick guide desigend in several parts which tries to be informative and practical.
 
@@ -12,8 +14,8 @@ This quick guide desigend in several parts which tries to be informative and pra
 
 <h1>Part I:</h1>
 
-- Install git from the [link](https://git-scm.com/) (to read more [here](https://git-scm.com/about))
-you can see [git cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+- Install git from the [link](https://git-scm.com/) (read more on [documentation](https://git-scm.com/about)
+or quciker, have a look at [git cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf))
 - Open an account with a git repository e.g. GitHub, bitBucket, GitLab
 
   (GitHub: is free for public usage; if you like to have a private, you should pay.)
