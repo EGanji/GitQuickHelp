@@ -17,17 +17,17 @@ This quick guide desigend in several parts which tries to be informative and pra
 - Install git from the [link](https://git-scm.com/) (read more on [documentation](https://git-scm.com/about)
 or quciker, have a look at [git cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf))
 
-- Open an account with a git repository e.g. GitHub, bitBucket, GitLab
+- Open an account with a git repository e.g. GitHub, Bitbucket, GitLab
 
   ([GitHub](https://github.com/): is free for public usage; if you like to have a private, you should pay.)
   
   ([GitLab](https://about.gitlab.com/): is free; but, if you like more option, you have to pay)
   
-  ([bitbucket](https://bitbucket.org/): the free account is limited, but Academic one is unlimited)
+  ([Bitbucket](https://bitbucket.org/): the free account is limited, but Academic one is unlimited)
   
 - Open an account with Git Client [GitKraken](https://www.gitkraken.com/) (academic and non-comercial usage is Free) or [SmartGit](http://www.syntevo.com/smartgit/)
 
-- Log into your _GitKraken_, go to: _**File->Preferences->Authentication**_ then you can connect your _GitKraken_ with any Git repository you have by click on connect. To have a life easy, log into your Git repositories before. Then you can exit from prefrences.
+- Log into your [GitKraken](https://account.gitkraken.com/login), go to: _**File->Preferences->Authentication**_ then you can connect your GitKraken with any Git repository (e.g. [GitHub](https://support.gitkraken.com/integrations/github), [GitLab](https://support.gitkraken.com/integrations/gitlab), or [Bitbucket](https://support.gitkraken.com/integrations/bitbucket)) by click on connect. To have a life easy, log into your Git repositories before. Then you can exit from prefrences.
 
 # Part II:
 - For [Integrating PyCharm with Git](https://www.youtube.com/watch?v=NhFRpFtiHec&index=6&list=PLKb3g92a0tArYgaYtm1JeA9xL1IPQXK1b) watch the video.
