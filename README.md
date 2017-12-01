@@ -33,14 +33,14 @@ or quciker, have a look at [git cheatsheet](https://services.github.com/on-deman
 - For [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - to read more 
 
-[](https://pages.github.com/)
+-- [1](https://pages.github.com/)
 
-[](https://github.com/blog/2295-new-theme-chooser-for-github-pages)
+-- [2](https://github.com/blog/2295-new-theme-chooser-for-github-pages)
 
-[](https://pages.github.com/)
+-- [3](https://pages.github.com/)
 
-[](https://help.github.com/categories/github-pages-basics/)
+-- [4](https://help.github.com/categories/github-pages-basics/)
 
-[](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser/)
+-- [5](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser/)
 
 
