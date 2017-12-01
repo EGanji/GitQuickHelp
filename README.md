@@ -24,8 +24,8 @@ or quciker, have a look at [git cheatsheet](https://services.github.com/on-deman
   
   ([bitbucket](https://bitbucket.org/): the free account is limited, but Academic one is unlimited)
   
-- Open an account with GitKraken (academic and non-comercial usage is Free)
-- Log into your GitKraken, go to: File-> Preferences->Authentication-> then you can connect your GitKraken with any Git repository you have by click on connect. To have a life easy, log into your Git repositories before. Then you can exit from prefrences.
+- Open an account with Git Client [GitKraken](https://www.gitkraken.com/) (academic and non-comercial usage is Free) or [SmartGit](http://www.syntevo.com/smartgit/)
+- Log into your GitKraken, go to: _**File->Preferences->Authentication**_ then you can connect your GitKraken with any Git repository you have by click on connect. To have a life easy, log into your Git repositories before. Then you can exit from prefrences.
 
 <h1>Part II:</h1>
 - To create your webpage on GitHub watch these videos [make a webpage on GitHub](https://www.youtube.com/watch?v=BA_c3bGQXlQ) and more details on [Build a website with GitHub Pages and Jekyll ](https://www.youtube.com/watch?v=SWVjQsvQocA).
