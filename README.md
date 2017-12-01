@@ -18,21 +18,18 @@ This quick guide desigend in several parts which tries to be informative and pra
 or quciker, have a look at [git cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf))
 - Open an account with a git repository e.g. GitHub, bitBucket, GitLab
 
-  (GitHub: is free for public usage; if you like to have a private, you should pay.)
+  ([GitHub](https://github.com/): is free for public usage; if you like to have a private, you should pay.)
   
-  (GitLab: is free; but, if you like more option, you have to pay)
+  ([GitLab](https://about.gitlab.com/): is free; but, if you like more option, you have to pay)
   
-  (bitbucket: the free account is limited, but Academic one is unlimited)
+  ([bitbucket](https://bitbucket.org/): the free account is limited, but Academic one is unlimited)
   
 - Open an account with GitKraken (academic and non-comercial usage is Free)
 - Log into your GitKraken, go to: File-> Preferences->Authentication-> then you can connect your GitKraken with any Git repository you have by click on connect. To have a life easy, log into your Git repositories before. Then you can exit from prefrences.
 
 <h1>Part II:</h1>
-- Watch these video which are quick and handy:
+- To create your webpage on GitHub watch these videos [make a webpage on GitHub](https://www.youtube.com/watch?v=BA_c3bGQXlQ) and more details on [Build a website with GitHub Pages and Jekyll ](https://www.youtube.com/watch?v=SWVjQsvQocA).
 
-https://www.youtube.com/watch?v=BA_c3bGQXlQ
-
-https://www.youtube.com/watch?v=SWVjQsvQocA
 
 - to read more 
 
