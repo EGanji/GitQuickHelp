@@ -25,7 +25,7 @@ A
 B
 C
 
-<h1>Part I:</h1>
+# Part I:
 
 - Install git from the [link](https://git-scm.com/) (read more on [documentation](https://git-scm.com/about)
 or quciker, have a look at [git cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf))
