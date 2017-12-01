@@ -27,7 +27,7 @@ or quciker, have a look at [git cheatsheet](https://services.github.com/on-deman
   
 - Open an account with Git Client [GitKraken](https://www.gitkraken.com/) (academic and non-comercial usage is Free) or [SmartGit](http://www.syntevo.com/smartgit/)
 
-- Log into your [GitKraken](https://account.gitkraken.com/login), go to: _**File->Preferences->Authentication**_ then you can connect your GitKraken with any Git repository (e.g. [GitHub](https://support.gitkraken.com/integrations/github), [GitLab](https://support.gitkraken.com/integrations/gitlab), or [Bitbucket](https://support.gitkraken.com/integrations/bitbucket)) by click on connect. To have a life easy, log into your Git repositories before. Then you can exit from prefrences.
+- Log into your [GitKraken](https://account.gitkraken.com/login), then you can connect your GitKraken with any Git repository from: _**File->Preferences->Authentication**_  (e.g. [GitHub](https://support.gitkraken.com/integrations/github), [GitLab](https://support.gitkraken.com/integrations/gitlab), or [Bitbucket](https://support.gitkraken.com/integrations/bitbucket)) by click on connect. To have a life easy, log into your Git repositories before. Then you can exit from prefrences.
 
 # Part II:
 - For [Integrating PyCharm with Git](https://www.youtube.com/watch?v=NhFRpFtiHec&index=6&list=PLKb3g92a0tArYgaYtm1JeA9xL1IPQXK1b) watch the video.
