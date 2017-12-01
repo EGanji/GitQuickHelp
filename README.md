@@ -3,7 +3,7 @@
 
 [Link to conf page](conf.md).
 
-[Machine Learning MindMap](https://media.licdn.com/mpr/mpr/AAIAAQDGAAAAAQAAAAAAAAtEAAAAJDgxNDhhMmJiLTQ3Y2ItNDI1ZS05MTUwLTdhNTJmNTkxYWE1Mw.png) :wink:
+[Machine Learning MindMap](https://media.licdn.com/mpr/mpr/AAIAAQDGAAAAAQAAAAAAAAtEAAAAJDgxNDhhMmJiLTQ3Y2ItNDI1ZS05MTUwLTdhNTJmNTkxYWE1Mw.png)
 
 
 This quick guide desigend in several parts which tries to be informative and practical.
