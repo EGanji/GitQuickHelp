@@ -27,10 +27,10 @@ or quciker, have a look at [git cheatsheet](https://services.github.com/on-deman
   
 - Open an account with Git Client [GitKraken](https://www.gitkraken.com/) (academic and non-comercial usage is Free) or [SmartGit](http://www.syntevo.com/smartgit/)
 
-- Log into your [GitKraken](https://account.gitkraken.com/login); then connect GitKraken with any Git repository (e.g. [GitHub](https://support.gitkraken.com/integrations/github), [GitLab](https://support.gitkraken.com/integrations/gitlab), or [Bitbucket](https://support.gitkraken.com/integrations/bitbucket))
+- Log into your [GitKraken](https://account.gitkraken.com/login); then connect GitKraken with any Git repository (e.g. [GitHub](https://support.gitkraken.com/integrations/github), [GitLab](https://support.gitkraken.com/integrations/gitlab), or [Bitbucket](https://support.gitkraken.com/integrations/bitbucket)):
   -- go to: _**File->Preferences->Authentication**_   
-  -- click on connect.  
-  --- Tip: to have an easier life, log into your Git repositories before clicking on connect.
+  -- click on connect.
+    --- Tip: to have an easier life, log into your Git repositories before clicking on connect.
   -- Then you can exit from prefrences.
 
 # Part II:
