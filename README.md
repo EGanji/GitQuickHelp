@@ -17,12 +17,16 @@ This quick guide desigend in several parts which tries to be informative and pra
 ### Head3
 List 
 A
+
 B
+
 C
 
 Numbered
 A
+
 B
+
 C
 
 # Part I:
