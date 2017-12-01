@@ -30,7 +30,7 @@ or quciker, have a look at [git cheatsheet](https://services.github.com/on-deman
 # Part II:
 - To create your *webpage on GitHub* watch these videos [make a webpage on GitHub](https://www.youtube.com/watch?v=BA_c3bGQXlQ) and more details on [Build a website with GitHub Pages and Jekyll ](https://www.youtube.com/watch?v=SWVjQsvQocA).
 
-- For[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- For [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - to read more 
 
 https://pages.github.com/
