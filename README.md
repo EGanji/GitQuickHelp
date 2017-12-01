@@ -16,6 +16,7 @@ This quick guide desigend in several parts which tries to be informative and pra
 
 - Install git from the [link](https://git-scm.com/) (read more on [documentation](https://git-scm.com/about)
 or quciker, have a look at [git cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf))
+
 - Open an account with a git repository e.g. GitHub, bitBucket, GitLab
 
   ([GitHub](https://github.com/): is free for public usage; if you like to have a private, you should pay.)
@@ -25,12 +26,14 @@ or quciker, have a look at [git cheatsheet](https://services.github.com/on-deman
   ([bitbucket](https://bitbucket.org/): the free account is limited, but Academic one is unlimited)
   
 - Open an account with Git Client [GitKraken](https://www.gitkraken.com/) (academic and non-comercial usage is Free) or [SmartGit](http://www.syntevo.com/smartgit/)
+
 - Log into your _GitKraken_, go to: _**File->Preferences->Authentication**_ then you can connect your _GitKraken_ with any Git repository you have by click on connect. To have a life easy, log into your Git repositories before. Then you can exit from prefrences.
 
 # Part II:
 - To create your **_webpage on GitHub_** watch these videos [make a webpage on GitHub](https://www.youtube.com/watch?v=BA_c3bGQXlQ) and more details on [Build a website with GitHub Pages and Jekyll ](https://www.youtube.com/watch?v=SWVjQsvQocA).
 
 - For [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
 - To costumize more, read on:
   - [Websites for you and your projects.](https://pages.github.com/)
   - [New theme chooser for GitHub Pages](https://github.com/blog/2295-new-theme-chooser-for-github-pages)
